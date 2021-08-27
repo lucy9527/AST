@@ -1,0 +1,13 @@
+
+num_t = 10;
+var_s = '$';
+while (num_t < 15 ){
+    var_s = var_s + '￥';
+    num_t = num_t+1;
+}
+
+def hello(int , ss ){
+    return int + ss;
+}
+
+hello(1,'s');
