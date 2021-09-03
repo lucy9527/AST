@@ -1,6 +1,5 @@
-
 num_t = 10;
-var_s = '$';
+var_s = 2 * 10;
 while (num_t < 15 ){
     var_s = var_s + '￥';
     num_t = num_t+1;
@@ -11,3 +10,5 @@ def hello(int , ss ){
 }
 
 hello(1,'s');
+
+print(num_t + 20);
